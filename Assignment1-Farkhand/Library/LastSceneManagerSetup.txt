@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/Assignment 1.unity
+- path: D:/Documents/3D Game Development/Assignment1-Farkhand/Assets/Scenes/Assignment
+    1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

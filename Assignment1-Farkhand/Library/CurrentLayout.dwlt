@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 130
+  controlID: 106
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 131
+  controlID: 107
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 132
+  controlID: 108
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -409,9 +409,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 58430000
-      m_LastClickedID: 17240
-      m_ExpandedIDs: bae5ffffc2e5ffffc6e5ffffcae5ffffcce5ffff4ae9ffff84eaffff58fbffff8cfbffff20450000
+      m_SelectedIDs: 463f0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: d8faffff78fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -471,7 +471,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -109.81019, y: -67.55525, z: 70.242714}
+    m_Target: {x: -21.70692, y: -26.602945, z: -8.483962}
     speed: 2
     m_Value: {x: -109.81019, y: -67.55525, z: 70.242714}
   m_RenderMode: 0
@@ -502,11 +502,11 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.1538063, y: 0.69943583, z: -0.15800887, w: -0.6799194}
+    m_Target: {x: -0.0107809855, y: -0.98902214, z: 0.10757804, w: -0.101595126}
     speed: 2
-    m_Value: {x: -0.15379676, y: 0.6993925, z: -0.15799908, w: -0.6798773}
+    m_Value: {x: -0.1538063, y: 0.69943583, z: -0.15800887, w: -0.6799194}
   m_Size:
-    m_Target: 124.37254
+    m_Target: 43.7299
     speed: 2
     m_Value: 124.37254
   m_Ortho:
@@ -597,20 +597,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Script
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Script
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\Documents\3D Game Development\Assignment1-Farkhand
+  m_LastProjectPath: D:\Documents\3D Game Development\Assign1-Farkhand\Assignment1-Farkhand
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 383}
-    m_SelectedIDs: b23e0000
-    m_LastClickedID: 16050
-    m_ExpandedIDs: 00000000aa2d0000ba2d0000ea2d0000182e0000242e0000a82e0000b62e0000e42e00007430000090320000e633000060350000be35000030370000623700008c3a0000fc3a0000483f0000883f00000e420000926200009462000096620000986200009a6200009c6200009e620000a062000000ca9a3b
+    scrollPos: {x: 0, y: 495}
+    m_SelectedIDs: 463f0000
+    m_LastClickedID: 16198
+    m_ExpandedIDs: 000000000a320000163200003e320000663200006e32000098320000a4320000c2320000c6330000323600002a3700007a370000a0380000bc380000c43a0000143b00004e3e0000783e00005240000066410000684100006a4100006c4100006e410000704100007241000074410000764100007841000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -638,7 +638,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000aa2d0000ba2d0000ea2d0000182e0000242e0000a82e0000b62e0000e42e00007430000090320000e633000060350000be35000030370000623700008c3a0000fc3a0000483f0000883f00000e420000926200009462000096620000986200009a6200009c6200009e620000a0620000
+    m_ExpandedIDs: 000000000a320000163200003e320000663200006e32000098320000a4320000c2320000c6330000323600002a3700007a370000bc380000c43a0000143b00004e3e0000783e00005240000066410000684100006a4100006c4100006e4100007041000072410000744100007641000078410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -669,18 +669,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300006a5300002ee4010000000000408c0000523d0000083e0000e23a00005637000080300000d83900009a3a00004e2f0000262e0000303100005c2f0000363b0000b23600004c36000078360000ba2f00004e310000563a00000838000078350000723e0000403b00009e300000622f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Pedestrian
-      m_OriginalName: Pedestrian
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 9326
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
